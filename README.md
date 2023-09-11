@@ -8,3 +8,4 @@ Currently I have notebooks on:
 - Plotting of standard and anomalous diffusion
 - The resolution limit due to chromatic blurring by thickness.
 - Radiolysis simulation plots with simulations from Birk Fritsch and colleagues.
+- Perlin noise to generate a simple synthetic example of an image of an amorphous film
