@@ -9,3 +9,4 @@ Currently I have notebooks on:
 - The resolution limit due to chromatic blurring by thickness.
 - Radiolysis simulation plots with simulations from Birk Fritsch and colleagues.
 - Perlin noise to generate a simple synthetic example of an image of an amorphous film
+- Statistically noisy, averaged picture showing the principle of averaging noisy images to improve signal to noise
