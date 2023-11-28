@@ -6,7 +6,7 @@ Currently I have notebooks on:
 
 - The Stokes-Einstein equation and theoretical modelling of conventional Brownian motion and rotation
 - Plotting of standard and anomalous diffusion
-- The resolution limit due to chromatic blurring by thickness.
+- The resolution limit due to chromatic blurring by thickness and dose-limited resolution
 - Radiolysis simulation plots with simulations from Birk Fritsch and colleagues.
 - Perlin noise to generate a simple synthetic example of an image of an amorphous film
 - Statistically noisy, averaged picture showing the principle of averaging noisy images to improve signal to noise
